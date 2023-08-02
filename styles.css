@@ -16,6 +16,10 @@ body {
   .nav-link {
     color: aliceblue;
   }
+.navbar-brand {
+    height: 50%;
+    width: 40%;
+}
 .Fondoguitarra {
     width: 100%;
     height: 1024px;
